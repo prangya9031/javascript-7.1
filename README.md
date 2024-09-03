@@ -95,11 +95,45 @@ great()
 Operator in javascript:-
 operator are the key features to do some task or operate some task.
 ex. A+B
- in that given example A&B are the operands , "+" sign is our operator.
- there are 5 types of operator are their in javascript.
+ -in that given example A&B are the operands , "+" sign is our operator.
+ -there are 5 types of operator are their in javascript.
 
  1.Arithematic Operator->(+,-,,/,%(modulo),*(exponents)).
- 2.unary operator-> ++(increment),--(decrement)
- 3.assignment operator->(=,+=,-=,=,*=)
- 4.logical operator->(logical and operator-&&),(logical or operator ||)
- 5.comparision operator->(==,!=,!==,===)
+ 2.unary operator-> ++(increment),--(decrement).
+ 3.assignment operator->(=,+=,-=,=,*=).
+ 4.logical operator->(logical and operator-&&),(logical or operator ||).
+ 5.comparision operator->(==,!=,!==,===).
+
+ Conditional Statement in Javascript:-
+
+-conditional statement are used to implement some condotion in code.
+-there are 3 types of conditional statement are their in javascript.
+1. if conditoon:-
+
+-if condition is true then statement is execute.
+-syntax:-
+if(condition) {
+    statement
+}
+2. if-else condition:-
+-if condition is true then if block is executed otherwise its terminated to else condition.
+-syntax:-
+if (condition){
+    statement
+} else {
+    statement
+}
+
+3. else-if condition:-
+-its check the condition multiple times where the condition is true.
+syntax:-
+if (condition) {
+    statement
+} else if(condition) {
+    statement
+} else if(condition) {
+    statement
+} else {
+    statement
+}
+    
